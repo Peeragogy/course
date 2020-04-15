@@ -1,5 +1,9 @@
 # Peeragogy Course Semester Two - Spring 2020
 
+## About
+
+In this course peers will work together to design new ways to address the global demand for learning opportunities. Our primary textbook will be the Peeragogy Handbook (currently in a 3rd edition). Participants will contribute to critical review, expository writing, media production, and creative design. One outcome will be a collaboratively produced Massive Open Online Course (MOOC) based on the course materials. We will design and develop additional innovative interventions. Peer learning will be practiced throughout, by tailoring the syllabus, developing new ways of processing and presenting the course material, through supportive peer feedback, and in collaborative final projects.
+
 ## Session One - April 2nd
 
 - [Video Recording](https://drive.google.com/file/d/1bsvwpETweYjx9SOBgfzTHIqIH6r2_X6y/view?usp=sharing)
