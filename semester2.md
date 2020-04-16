@@ -16,6 +16,9 @@ In this course peers will work together to design new ways to address the global
 
 ### Session Three - April 16th
 
+- Vitor summarizing what he learned in his course
+- Incorporating work done previously with the accelerator into this course
+
 ### Session Four - April 23rd
 
 ### Session Five - April 30th
@@ -75,3 +78,7 @@ The latest version of the Handbook is available for free on Peeragogy.org. A 4th
 - https://wikimania2014.wikimedia.org/wiki/Submissions/Bootstrapping_the_Wiki_Way_with_the_Peeragogy_Accelerator
 - https://docs.google.com/presentation/d/1tAhhJNda9Jt58AS1fiEFTqGBHKSOGCcLBXEQ0_gQVAk/edit#slide=id.p
 - http://metameso.org/~joe/papers/Building_the_Peeragogy_Accelerator.pdf
+
+## Copyright
+
+This document entered into the public domain with the (CCO 1.0)[https://creativecommons.org/publicdomain/zero/1.0/] dedication
