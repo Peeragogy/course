@@ -1,4 +1,4 @@
-# Peeragogy Course Semester Two - Spring 2020
+# Peeragogy Course - Syllabus - Semester Two - Spring 2020
 
 ## About
 
@@ -16,8 +16,7 @@ In this course peers will work together to design new ways to address the global
 
 ### Session Three - April 16th
 
-- Vitor summarizing what he learned in his course
-- Incorporating work done previously with the accelerator into this course
+- [Video Recording](https://drive.google.com/file/d/14LZN11pCIDzQklPuey_QLyrZGpP1F1Kt/view?usp=sharing)
 
 ### Session Four - April 23rd
 
