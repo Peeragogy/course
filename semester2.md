@@ -8,28 +8,11 @@ In our interactions we will try to follow [community guidelines](https://groups.
 
 ## Schedule
 
-### Session One - April 2nd
+### Upcoming Sessions
 
-Recordings
-- [Video](https://drive.google.com/file/d/1bsvwpETweYjx9SOBgfzTHIqIH6r2_X6y/view?usp=sharing)
-- [Audio](https://drive.google.com/file/d/1m4OR65eom952dU6EBf4m-ZfcQuvBK-k_/view?usp=sharing)
+#### Session Four - April 23rd
 
-Transcript
-- [Chat](https://docs.google.com/document/d/18kZjviEFYy6XORQKvh9cfY3GKfwNxjiAWchmT3itbas/edit)
-
-### Session Two - April 9th
-
-- [Written wrap](https://github.com/Peeragogy/Peeragogy.github.io/wiki/Peeragogy-Post-Pilot-Course---12-April-2020-Session-Notes) summarizing what we did
-
-### Session Three - April 16th
-
-Recordings
-- [Video](https://drive.google.com/file/d/14LZN11pCIDzQklPuey_QLyrZGpP1F1Kt/view?usp=sharing)
-- [Audio](https://drive.google.com/file/d/1GuIqQRsQuDRBK82UAPyYm9RwVrRIrNQO/view?usp=sharing)
-
-### Session Four - April 23rd
-
-#### Proposed Agenda
+##### Proposed Agenda
 
 What do you think of this as an agenda? Are there any changes you would like? Also I shared the agenda for week 4 of the pilot course. Do we want to incorporate any of that?
 
@@ -41,18 +24,41 @@ What do you think of this as an agenda? Are there any changes you would like? Al
 6. Do people want to incorporate one of their current projects to see if we could accelerate it?
 7. Open
 
-#### Materials for week 4 from Pilot Course
+##### Materials for week 4 from Pilot Course
 Develop a networking strategy: Who else should we involve in our learning? We will start reaching out to other people to co-design final outcomes for the class. We will review the "Data Fair" from Data Science for Design as one way to organize such outreach, and discuss which methods will work best for us. For example, students may experiment with uploading text to Wikipedia and engage in discussions there.
 
 - Optional reading: [Patterns of Peeragogy](http://peeragogy.github.io/practice.html)
 
-### Session Five - April 30th
+#### Session Five - April 30th
 
-### Session Six - May 7th
+#### Session Six - May 7th
 
-### Session Seven - May 14th
+#### Session Seven - May 14th
 
-### Session Eight - May 21st
+#### Session Eight - May 21st
+
+### Completed Sessions
+
+#### Session One - April 2nd
+
+Recordings
+- [Video](https://drive.google.com/file/d/1bsvwpETweYjx9SOBgfzTHIqIH6r2_X6y/view?usp=sharing)
+- [Audio](https://drive.google.com/file/d/1m4OR65eom952dU6EBf4m-ZfcQuvBK-k_/view?usp=sharing)
+
+Transcript
+- [Chat](https://docs.google.com/document/d/18kZjviEFYy6XORQKvh9cfY3GKfwNxjiAWchmT3itbas/edit)
+
+#### Session Two - April 9th
+
+- [Written wrap](https://github.com/Peeragogy/Peeragogy.github.io/wiki/Peeragogy-Post-Pilot-Course---12-April-2020-Session-Notes) summarizing what we did
+
+#### Session Three - April 16th
+
+- Vitor prestened his [notes from the Modes of Learning course](https://docs.google.com/document/d/1wAhxayX7lltJ652nRa2l9kGw_q19QwhKtC6EHal8QqA/edit) he took
+
+Recordings
+- [Video](https://drive.google.com/file/d/14LZN11pCIDzQklPuey_QLyrZGpP1F1Kt/view?usp=sharing)
+- [Audio](https://drive.google.com/file/d/1GuIqQRsQuDRBK82UAPyYm9RwVrRIrNQO/view?usp=sharing)
 
 ## Learning Outcomes
 
