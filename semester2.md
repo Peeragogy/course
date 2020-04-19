@@ -1,4 +1,4 @@
-# Peeragogy Course - Semester Two - Syllabus - Spring 2020
+# Peeragogy Course - Semester Two - Spring 2020 - Syllabus
 
 ## About
 
@@ -10,11 +10,11 @@ In our interactions we will try to follow [community guidelines](https://groups.
 
 ### Session One - April 2nd
 
-Recordings:
+Recordings
 - [Video](https://drive.google.com/file/d/1bsvwpETweYjx9SOBgfzTHIqIH6r2_X6y/view?usp=sharing)
 - [Audio](https://drive.google.com/file/d/1m4OR65eom952dU6EBf4m-ZfcQuvBK-k_/view?usp=sharing)
 
-Transcript:
+Transcript
 - [Chat](https://docs.google.com/document/d/18kZjviEFYy6XORQKvh9cfY3GKfwNxjiAWchmT3itbas/edit)
 
 ### Session Two - April 9th
@@ -23,9 +23,10 @@ Transcript:
 
 ### Session Three - April 16th
 
-Recordings:
+Recordings
 - [Video](https://drive.google.com/file/d/14LZN11pCIDzQklPuey_QLyrZGpP1F1Kt/view?usp=sharing)
 - [Audio](https://drive.google.com/file/d/1GuIqQRsQuDRBK82UAPyYm9RwVrRIrNQO/view?usp=sharing)
+
 ### Session Four - April 23rd
 
 #### Proposed Agenda
@@ -43,7 +44,7 @@ What do you think of this as an agenda? Are there any changes you would like? Al
 #### Materials for week 4 from Pilot Course
 Develop a networking strategy: Who else should we involve in our learning? We will start reaching out to other people to co-design final outcomes for the class. We will review the "Data Fair" from Data Science for Design as one way to organize such outreach, and discuss which methods will work best for us. For example, students may experiment with uploading text to Wikipedia and engage in discussions there.
 
-- Optional reading: [Patterns of Peeragogy](http://peeragogy.github.io/practice.html
+- Optional reading: [Patterns of Peeragogy](http://peeragogy.github.io/practice.html)
 
 ### Session Five - April 30th
 
@@ -106,8 +107,7 @@ A 4th Edition is in development for publication on Public Domain Day, Jan. 1, 20
 * de Filipe Governance in online communities
 * "[The convergence of digital commons with local manufacturing from a degrowth perspective: Two illustrative cases](https://www.sciencedirect.com/science/article/pii/S0959652616314184)" by Vasilis Kostakisa, Kostas Latoufis, Minas Liaro, and Michel Bauwens
 * [Book of Peer Production](http://peerproduction.net/projects/books/book-of-peer-production/)
-* http://peerproduction.net/issue-14-infrastructuring-the-commons-today-when-sts-meets-ict/ 
-* http://peerproduction.net/cfp-jopp-special-issue-11-city-abstracts-due-31-january-2017/
+* Journal of Peer Production [Issue #14: Infrastructuring the commons today, when STS meets ICT](http://peerproduction.net/issue-14-infrastructuring-the-commons-today-when-sts-meets-ict/)
 
 ### Course Team
 
@@ -135,6 +135,7 @@ Below are documents from our experiments around 2014 with running an accelerator
 - [Paper](http://metameso.org/~joe/papers/Building_the_Peeragogy_Accelerator.pdf) formally summarizing our thoughts
 - [Presentation](https://docs.google.com/presentation/d/1tAhhJNda9Jt58AS1fiEFTqGBHKSOGCcLBXEQ0_gQVAk/edit#slide=id.p) about the Accelerator
 - '[Zine](https://drive.google.com/file/d/0B3cDsp8xYZafZkxFM1ZjamRIWEk/view?usp=sharing) about the first accelerator
+- [Announcement](https://groups.google.com/d/msg/peeragogy/_4eAHXd0ELM/PuCf_jwMbfgJ) outlining what we planned to do before week one
 - [Hackpad](https://web.archive.org/web/20170428173416/https://peeragogy.hackpad.com/) with week by week course content
 - [Chat Transcript](https://groups.google.com/d/msg/peeragogy/O9rhKDKW36E/CtAvdlai9xgJ) from week 3
 - [Accelerator Page](https://web.archive.org/web/20140717234424/http://commonsabundance.net/docs/help-build-the-peeragogy-accelerator-work-in-progress/) on Commons Abundance Network website detailing our plans with comments 
@@ -164,14 +165,11 @@ Another relevant role is running and facilitating meetings.  It is pretty remark
 ### Marketing
 Another task that we have kind of fallen down on in the past is marketing the book. I think that in recognition of the tremendous amount of effort that everyone has been putting into this, we should step up our game in this regard for the fourth edition.
  
-## License to sign
+### License to sign
 
-Navigate to
-https://github.com/Peeragogy/Peeragogy.github.io
-
-And find this:
-https://github.com/Peeragogy/Peeragogy.github.io/blob/master/license.md
-
-Then submit an email like this:
+1. Navigate to [this page](https://github.com/Peeragogy/Peeragogy.github.io/blob/master/license.md)
+2. Then submit an email to peeragogy@gmail.com like this:
 
 > I hereby waive all copyright and related or neighboring rights together with all associated claims and causes of action with respect to this work to the extent possible under the law.
+
+3. Confirm email receipe with course co-ordiantors.
