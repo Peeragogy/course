@@ -10,26 +10,9 @@ In our interactions we will try to follow [community guidelines](https://groups.
 
 ### Upcoming Sessions
 
-#### Session Four - April 23rd
-
-##### Proposed Agenda
-
-What do you think of this as an agenda? Are there any changes you would like? Also I shared the agenda for week 4 of the pilot course. Do we want to incorporate any of that?
-
-1. Introductions and discuss how everyone is doing
-2. Everyone choose a Rheingoldian role to play below in the meeting
-3. Review this document
-4. Do people want to choose readings to present?
-5. Do people want to have any guest speakers join upcoming sessions?
-6. Do people want to incorporate one of their current projects to see if we could accelerate it?
-7. Open
-
-##### Materials for week 4 from Pilot Course
-Develop a networking strategy: Who else should we involve in our learning? We will start reaching out to other people to co-design final outcomes for the class. We will review the "Data Fair" from Data Science for Design as one way to organize such outreach, and discuss which methods will work best for us. For example, students may experiment with uploading text to Wikipedia and engage in discussions there.
-
-- Optional reading: [Patterns of Peeragogy](http://peeragogy.github.io/practice.html)
-
 #### Session Five - April 30th
+
+- Hearmano present about how to cooperate in virtual environments
 
 #### Session Six - May 7th
 
@@ -59,6 +42,70 @@ Transcript
 Recordings
 - [Video](https://drive.google.com/file/d/14LZN11pCIDzQklPuey_QLyrZGpP1F1Kt/view?usp=sharing)
 - [Audio](https://drive.google.com/file/d/1GuIqQRsQuDRBK82UAPyYm9RwVrRIrNQO/view?usp=sharing)
+
+#### Session Four - April 23rd
+
+#### What We Did
+
+_Taken from Hermano's [Google Doc Notes Peeragogy Semester 2 session](https://docs.google.com/document/d/1_nxrVj1CvBtBR9zbQhmQxRBjj7-VKDUQcYzbyMOaoRo/edit)_
+
+Chuck did a summary of what has happened in prior sessions
+
+Participants made personal presentations: which have ranged from papers, readings, project of their own
+
+Hermano has pointed to the Amazon experience which is presented 
+
+Joe has proposed that we share personal practices and projects relating them to peeragogy
+
+Vitor commented on his presentation "leaders of learning" of the last session which follows the track proposed by Joe.
+
+Joe believes short presentations are a great format for sharing.
+
+Vitor shared this presentation about the business model canvas
+https://docs.google.com/presentation/d/1gbx0NLgCBkpAACSTJRZWUa0P_eras0EN6US_TF6Zlbc/edit?usp=sharing
+
+Joe suggested that Hermano could present his practice with peeragogy using Google docs on a startup accelerator program he runs.
+
+Hermano participated in Howard’s course in 2010 but has met him in 1998 on his Brainstorms virtual Community and it was really amazing
+
+Howard couldn’t read his PhD because it was in portuguese, but he has read his introduction and  his thank you to him as his thoughts originated the research. His thesis dealt with cooperation observing the open source development communities.
+
+Hermano present:
+Cooperation, more theoretical
+Practice within incubator - more practical
+How to cooperate in virtual environments, beyond Zoom - fresh and much of the material is in English
+Travelend between many documents to show how open source community cooperates. People work asynchronously. Digital collaboration doesn’t need to be synchronous. Should be extended through many toosl
+
+Chuck has chosen the second option
+
+Possible project - connect up different KeyBase, Hangouts, WhatsApp
+
+Future presenters
+Hermano will present on digital collaboration - April 30th
+Joe could present about founders and coders - May 14th
+
+We could also invite Howard as a future presenter
+
+Hermano will attach this document to GitHub
+
+
+##### Proposed Agenda
+
+What do you think of this as an agenda? Are there any changes you would like? Also I shared the agenda for week 4 of the pilot course. Do we want to incorporate any of that?
+
+1. Introductions and discuss how everyone is doing
+2. Everyone choose a Rheingoldian role to play below in the meeting
+3. Review this document
+4. Do people want to choose readings to present?
+5. Do people want to have any guest speakers join upcoming sessions?
+6. Do people want to incorporate one of their current projects to see if we could accelerate it?
+7. Open
+
+##### Materials for week 4 from Pilot Course
+Develop a networking strategy: Who else should we involve in our learning? We will start reaching out to other people to co-design final outcomes for the class. We will review the "Data Fair" from Data Science for Design as one way to organize such outreach, and discuss which methods will work best for us. For example, students may experiment with uploading text to Wikipedia and engage in discussions there.
+
+- Optional reading: [Patterns of Peeragogy](http://peeragogy.github.io/practice.html)
+
 
 ## Learning Outcomes
 
