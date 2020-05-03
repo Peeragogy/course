@@ -10,11 +10,17 @@ In our interactions we will try to follow [community guidelines](https://groups.
 
 ### Upcoming Sessions
 
-#### Session Five - April 30th
-
-- Hearmano present about how to cooperate in virtual environments
-
 #### Session Six - May 7th
+
+##### Proposed Agenda
+
+1. Introductions and discuss how everyone is doing
+2. Review this agenda
+3. Decide what we will use for notes: zoom chat, Google Doc, other
+4. Everyone choose a Rheingoldian role to play below in the meeting
+5. Do people want to have any guest speakers join upcoming sessions?
+6. Do people want to incorporate one of their current projects to see if we could accelerate it? (e.g., presentation, paper, handbook, business model canvas, etc.)
+7. Open
 
 #### Session Seven - May 14th
 
@@ -89,7 +95,7 @@ We could also invite Howard as a future presenter
 Hermano will attach this document to GitHub
 
 
-##### Proposed Agenda
+##### Proposed Agenda Before Session Started
 
 What do you think of this as an agenda? Are there any changes you would like? Also I shared the agenda for week 4 of the pilot course. Do we want to incorporate any of that?
 
@@ -101,10 +107,18 @@ What do you think of this as an agenda? Are there any changes you would like? Al
 6. Do people want to incorporate one of their current projects to see if we could accelerate it?
 7. Open
 
-##### Materials for week 4 from Pilot Course
+###### Materials for week 4 from Pilot Course
 Develop a networking strategy: Who else should we involve in our learning? We will start reaching out to other people to co-design final outcomes for the class. We will review the "Data Fair" from Data Science for Design as one way to organize such outreach, and discuss which methods will work best for us. For example, students may experiment with uploading text to Wikipedia and engage in discussions there.
 
 - Optional reading: [Patterns of Peeragogy](http://peeragogy.github.io/practice.html)
+
+#### Session Five - April 30th
+
+##### What happened
+- Hermano gave an amazing presentation about digital collaboration in online communities with examples spanning from the 1980s to now
+
+##### Agenda Before
+- Hearmano present about how to cooperate in virtual environments
 
 
 ## Learning Outcomes
