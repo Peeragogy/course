@@ -14,7 +14,7 @@ In our interactions we will try to follow [community guidelines](https://groups.
 
 ##### Proposed Agenda
 
-1. Introductions and discuss how everyone is doing
+1. Check-in and discuss how everyone is doing
 2. Review this agenda
 3. Decide what we will use for notes: zoom chat, Google Doc, other
 4. Everyone choose a Rheingoldian role to play below in the meeting
