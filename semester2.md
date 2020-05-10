@@ -10,7 +10,7 @@ In our interactions we will try to follow [community guidelines](https://groups.
 
 ### Upcoming Sessions
 
-#### Session Six - May 7th
+#### Session Seven - May 14th
 
 ##### Proposed Agenda
 
@@ -18,11 +18,8 @@ In our interactions we will try to follow [community guidelines](https://groups.
 2. Review this agenda
 3. Decide what we will use for notes: zoom chat, Google Doc, other
 4. Everyone choose a Rheingoldian role to play below in the meeting
-5. Do people want to have any guest speakers join upcoming sessions?
-6. Do people want to incorporate one of their current projects to see if we could accelerate it? (e.g., presentation, paper, handbook, business model canvas, etc.)
+6. Anticipation paper
 7. Open
-
-#### Session Seven - May 14th
 
 #### Session Eight - May 21st
 
@@ -119,6 +116,23 @@ Develop a networking strategy: Who else should we involve in our learning? We wi
 
 ##### Agenda Before
 - Hearmano present about how to cooperate in virtual environments
+
+#### Session Six - May 7th
+
+##### What happened
+
+We followed-up on our discussion from session two where Vitor suggested creating a presentation to make it easier for newcomers to get up to speed. This led to Vitor and Hermano sharing their experiences learning about the project. We concluded by talking about having Vitor and Hermano join us in working on our current paper.
+
+##### Proposed Agenda before session started
+
+1. Introductions and discuss how everyone is doing
+2. Review this agenda
+3. Decide what we will use for notes: zoom chat, Google Doc, other
+4. Everyone choose a Rheingoldian role to play below in the meeting
+5. Do people want to have any guest speakers join upcoming sessions?
+6. Do people want to incorporate one of their current projects to see if we could accelerate it? (e.g., presentation, paper, handbook, business model canvas, etc.)
+7. Open
+
 
 
 ## Learning Outcomes
