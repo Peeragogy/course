@@ -19,7 +19,8 @@ In our interactions we will try to follow [community guidelines](https://groups.
 3. Decide what we will use for notes: zoom chat, Google Doc, other
 4. Everyone choose a Rheingoldian role to play below in the meeting
 6. Anticipation paper
-7. Open
+7. Peeragogy event
+8. Open
 
 #### Session Eight - May 21st
 
