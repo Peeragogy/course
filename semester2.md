@@ -8,25 +8,7 @@ In our interactions we will try to follow [community guidelines](https://groups.
 
 ## Schedule
 
-### Upcoming Sessions
-
-#### Session Seven - May 14th
-
-##### Proposed Agenda
-
-1. Check-in and discuss how everyone is doing
-2. Review this agenda
-3. We will use zoom chat for notes
-4. Everyone choose a Rheingoldian role to play below in the meeting
-6. Anticipation paper
-7. Peeragogy event
-8. Open
-
-#### Session Eight - May 21st
-
-### Completed Sessions
-
-#### Session One - April 2nd
+### Session One - April 2nd
 
 Recordings
 - [Video](https://drive.google.com/file/d/1bsvwpETweYjx9SOBgfzTHIqIH6r2_X6y/view?usp=sharing)
@@ -35,11 +17,11 @@ Recordings
 Transcript
 - [Chat](https://docs.google.com/document/d/18kZjviEFYy6XORQKvh9cfY3GKfwNxjiAWchmT3itbas/edit)
 
-#### Session Two - April 9th
+### Session Two - April 9th
 
 - [Written wrap](https://github.com/Peeragogy/Peeragogy.github.io/wiki/Peeragogy-Post-Pilot-Course---12-April-2020-Session-Notes) summarizing what we did
 
-#### Session Three - April 16th
+### Session Three - April 16th
 
 - Vitor prestened his [notes from the Modes of Learning course](https://docs.google.com/document/d/1wAhxayX7lltJ652nRa2l9kGw_q19QwhKtC6EHal8QqA/edit) he took
 
@@ -47,7 +29,7 @@ Recordings
 - [Video](https://drive.google.com/file/d/14LZN11pCIDzQklPuey_QLyrZGpP1F1Kt/view?usp=sharing)
 - [Audio](https://drive.google.com/file/d/1GuIqQRsQuDRBK82UAPyYm9RwVrRIrNQO/view?usp=sharing)
 
-#### Session Four - April 23rd
+### Session Four - April 23rd
 
 #### What We Did
 
@@ -110,7 +92,7 @@ Develop a networking strategy: Who else should we involve in our learning? We wi
 
 - Optional reading: [Patterns of Peeragogy](http://peeragogy.github.io/practice.html)
 
-#### Session Five - April 30th
+### Session Five - April 30th
 
 ##### What happened
 - Hermano gave an amazing presentation about digital collaboration in online communities with examples spanning from the 1980s to now
@@ -118,7 +100,7 @@ Develop a networking strategy: Who else should we involve in our learning? We wi
 ##### Agenda Before
 - Hearmano present about how to cooperate in virtual environments
 
-#### Session Six - May 7th
+### Session Six - May 7th
 
 ##### What happened
 
@@ -134,7 +116,25 @@ We followed-up on our discussion from session two where Vitor suggested creating
 6. Do people want to incorporate one of their current projects to see if we could accelerate it? (e.g., presentation, paper, handbook, business model canvas, etc.)
 7. Open
 
+### Session Seven - May 14th
 
+#### Ray's wrap
+
+1. Since not everyone had met everyone else yet, we had several introductions.  This led to new perspectives and richer discussion.
+2. The main topic on the agenda was the paper for the upcoming anticipation conference.  We didn't edit the documents much, but we did go over them and discussed them.
+3. We don't want to assume that everyone or even most the intended audience of that paper is familiar with pattern and pattern languages.  From the last conference, it became apparent that a large part of the audience consists of designers but they didn't seem to say all that much about pattern languages.  Thus, we should be careful in what we assume of readers and take care to define and explain our notions.
+4.  We should be sure to include non-western persprctives on pattern theory.  One noteworthy instance is the work of Takashi Iba and his group.
+5.  We discussed how these topics of anticipating the future and pattern languages relate to peeragogy.
+
+#### Proposed Agenda
+
+1. Check-in and discuss how everyone is doing
+2. Review this agenda
+3. We will use zoom chat for notes
+4. Everyone choose a Rheingoldian role to play below in the meeting
+6. Anticipation paper
+7. Peeragogy event
+8. Open
 
 ## Learning Outcomes
 
